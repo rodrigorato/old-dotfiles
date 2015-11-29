@@ -14,4 +14,7 @@ dependencies:
 
 Might be missing something but oh well, won't find out until I reinstall my OS I guess.
 
+Still looking pretty bad, looking forward to improving it over time.
+![](http://i.imgur.com/8XEDyjf.png)
+
 Using Chromium browser, Atom editor the Thunar file explorer and Dropbox to sync folder right now so you might find references to those in the /.i3/config file.
